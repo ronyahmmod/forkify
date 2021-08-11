@@ -1,0 +1,22 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Forkify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronyahmmod/forkify.git"
+  },
+  "keywords": [
+    "forkify"
+  ],
+  "author": "Md. Rony Ahmmod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronyahmmod/forkify/issues"
+  },
+  "homepage": "https://github.com/ronyahmmod/forkify#readme"
+}
